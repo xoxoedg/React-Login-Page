@@ -1,7 +1,9 @@
+import LoginComponent from "./Components/Login/LoginComponent";
+
 function App() {
     return (
-        <div className="App">Hello</div>
-    );
+        <LoginComponent/>
+        );
 }
 
 export default App;
